@@ -103,5 +103,6 @@ By the end of the course, students will be able to:
 - Organize programs into multiple source files with headers  
 - Understand how C differs from Java and how it connects to Python  
 - Demonstrate foundational skills for later systems and software courses
+-I successfully built and ran ./bin/hello.
 
 
